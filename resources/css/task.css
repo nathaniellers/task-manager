@@ -1,0 +1,14 @@
+/* Task List */
+.task {
+    margin-bottom: 1rem;
+}
+
+/* Modal Styling */
+.modal-body {
+    font-size: 14px;
+    line-height: 1.5;
+}
+
+#taskImageWrapper {
+    margin-top: 10px;
+}
