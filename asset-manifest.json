@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/feeldx-homepage/static/css/main.d0f7d001.css",
+    "main.js": "/feeldx-homepage/static/js/main.26b0487a.js",
+    "index.html": "/feeldx-homepage/index.html",
+    "main.d0f7d001.css.map": "/feeldx-homepage/static/css/main.d0f7d001.css.map",
+    "main.26b0487a.js.map": "/feeldx-homepage/static/js/main.26b0487a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0f7d001.css",
+    "static/js/main.26b0487a.js"
+  ]
+}
